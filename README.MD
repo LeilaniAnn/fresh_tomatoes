@@ -31,7 +31,7 @@ fresh_tomatoes/
 
 **Leilani Raranga**
 
-* <https://twitter.com/leilanir>
+* <https://twitter.com/leilanirar>
 * <https://github.com/leilaniann>
 
 
