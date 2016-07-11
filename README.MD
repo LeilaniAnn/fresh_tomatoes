@@ -1,4 +1,4 @@
-# [Fresh Tomatoes]
+# [Fresh Tomatoes] (https://leilaniann.github.io/fresh_tomatoes/)
 
 Fresh Tomatoes is a one-page application displaying movies and once clicked will take you to its respective YouTube trailer video, created by [Leilani Raranga](https://github.com/Leilaniann) for the Udacity Full Stack Nanodegree project 1.
 
